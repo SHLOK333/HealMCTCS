@@ -21,6 +21,12 @@ This project combines the power of **Large Language Models (LLMs)** with **Monte
 ---
 
 ## System Architecture
+![Untitled](https://github.com/user-attachments/assets/f10b7ecf-e217-4fac-9e7e-45ba348d99ac)
+
+Practical Guidline to setup a pipline between all LLms 
+
+![image](https://github.com/user-attachments/assets/88cf7a95-6238-42e6-86dd-4e5803a3a9c8)
+
 
 ```plaintext
             +-----------------------+
@@ -64,6 +70,8 @@ MCTS is a decision-making algorithm often used in reinforcement learning and gam
 4. **Backpropagation**: Update the value estimates of nodes in the path.
 
 We apply MCTS to explore different LLM-generated outputs and rank them based on formal verification and semantic alignment.
+
+![image](https://github.com/user-attachments/assets/3b729854-ce2e-4219-9819-85f3c198e9b9)
 
 ---
 
