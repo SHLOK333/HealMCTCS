@@ -4,6 +4,9 @@
 
 This project combines the power of **Large Language Models (LLMs)** with **Monte Carlo Tree Search (MCTS)** to provide verifiable, optimized, and adaptive responses across various reasoning tasks. Verification backends such as **Dafny** and **Coq** are integrated to ensure correctness of logic, while containerization and GPU acceleration power its performance at scale.
 
+
+Main Goal of this project was to implement an AI model locally at you desk while it turned out to be why not code it health realted wise locally at your pc 
+get personal recommendations and everything locally 
 ---
 
 ## Features
